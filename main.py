@@ -1,5 +1,6 @@
 import sys
 
+# op_ stands for Opertator_A
 
 def choose(number):
     op_A = [[1, 0.9], [268, 5.1], [46, 0.17], [4620, 0.0],
